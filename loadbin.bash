@@ -1,4 +1,5 @@
 #!/bin/bash
 
-nasm -f bin "$1.asm" -o "$1.bin"
-qemu-system-x86_64 "$1.bin"
+cd "$1"
+nasm -f bin "boot_sect_main.asm" -o "boot_sect_main.bin"
+qemu-system-x86_64 "boot_sect_main.bin"
