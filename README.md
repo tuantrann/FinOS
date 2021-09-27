@@ -43,8 +43,8 @@ The progress for this OS will be updated here:
 
 ### Built With
 
-* [C and C++]
-* [Bash script]
+* [C and C++]()
+* [Bash script]()
 
 
 
@@ -57,8 +57,8 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* [GCC]
-* [LD]
+* [GCC]()
+* [LD]()
 * [Cross-Compiler](https://wiki.osdev.org/GCC_Cross-Compiler)
 * [QEMU](https://qemu.org)
 
